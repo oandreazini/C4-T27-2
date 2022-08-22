@@ -1,11 +1,9 @@
 # C4-T27-2
-
 #### 1. Descripción
 ```
 Demo API REST creada con Spring Tool Suite 4  utilizando varias entidades ER
 ```
 
-```
 #### 3. URIs endpoints.
 ```
 Cientificos
@@ -29,4 +27,3 @@ GET       /api/asignadoa/{id}
 PUT       /api/asignadoa/{id}
 DELETE    /api/asignadoa/{id}
 ```
-
